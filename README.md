@@ -43,6 +43,10 @@ The project addresses four key business objectives:
 - Strengthen Amazon FBA operations and maintain efficient inventory levels.
 - Maintain strong performance in Maharashtra, Karnataka, and Delhi while exploring growth opportunities in other states.
 
+## Dashboard Preview
+
+![Amazon India Sales Dashboard](amazon-dashboard.png)
+
 ## Dashboard Features
 - Interactive KPI cards
 - Monthly and yearly slicers
